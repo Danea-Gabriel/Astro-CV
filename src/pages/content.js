@@ -64,7 +64,7 @@ export const skills = [
     description: "",
   },
   {
-    title: "Learning",
+    title: "Fast Learner",
     description:
       "I'am trying to learn as much as possible about every framework and library that I can get my hands on.",
   },
