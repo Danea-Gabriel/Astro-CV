@@ -132,7 +132,7 @@ export const education = [
 export const contact = [
   {
     source_name: "Email",
-    source: "gabriell.dannea@gmail.com",
+    source: "mailto:gabriell.dannea@gmail.com",
   },
   {
     source_name: "Github",
