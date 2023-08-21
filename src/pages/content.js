@@ -132,7 +132,7 @@ export const education = [
 export const contact = [
   {
     source_name: "Email",
-    source: "peter.griffin@example.com",
+    source: "gabriell.dannea@gmail.com",
   },
   {
     source_name: "Github",
@@ -163,7 +163,7 @@ export const achievements = [
       "Rethinked the Social Circumplex and created a new model for it.",
   },
   {
-    title: "Harworking Student",
+    title: "Hardworking Student",
     year: "2019",
     decription: "Finished two master's degree while working full time",
   },
