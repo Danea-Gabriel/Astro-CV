@@ -11,6 +11,15 @@ export const about =
 // Work Experience -->
 export const work = [
   {
+    from: "May 2023",
+    to: "Sep 2023",
+    role: "Freelance consulting",
+    org: "Freelance",
+    org_url: "https://astro-cv-kappa.vercel.app",
+    location: "Cluj, Romania",
+    skills: "Supporting fellow students and bootcamp peers on a variety of projects, including final papers.",
+  },
+  {
     from: "Aug 2022",
     to: "Aug 2023",
     role: "E-Media Specialist",
@@ -52,15 +61,19 @@ export const skills = [
     description: " ",
   },
   {
-    title: "React",
+    title: "React.js",
     description: "",
   },
   {
-    title: "NextJS",
+    title: "Next.js",
     description: "",
   },
   {
-    title: "Astro Js",
+    title: "Astro.js",
+    description: "",
+  },
+  {
+    title: "Redux/Redux Toolkit",
     description: "",
   },
   {
@@ -72,6 +85,13 @@ export const skills = [
 
 // Projects -->
 export const projects = [
+  {
+    title: "Games For Free",
+    description:
+      "This project showcases a virtual clothing shop where users can explore, select, and purchase their favorite garments online. With a user-friendly interface and seamless functionality, this project demonstrates the integration of React, Redux Toolkit, TailwindCSS, React Router, React Toastify, and Firebase for Google Authentication. ",
+    url: "https://ecommerce-lab-theta.vercel.app/",
+    tech: "React, Redux/Redux/Toolkit, Firebase, React Router, Tailwind CSS, React Toastify",
+  },
   {
     title: "Games For Free",
     description:
@@ -108,8 +128,7 @@ export const education = [
     from: "2017",
     to: "2019",
     institute: "Babeș-Bolyai University ",
-    course:
-      "Master's degree, Security,Intelligence and Competitivity in Organizations",
+    course: "Master's degree, Security,Intelligence and Competitivity in Organizations",
     location: "Cluj, Romania",
   },
   {
@@ -159,8 +178,7 @@ export const achievements = [
   {
     title: "Social Circumplex ",
     year: "2021",
-    decription:
-      "Rethinked the Social Circumplex and created a new model for it.",
+    decription: "Rethinked the Social Circumplex and created a new model for it.",
   },
   {
     title: "Hardworking Student",
