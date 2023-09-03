@@ -86,7 +86,7 @@ export const skills = [
 // Projects -->
 export const projects = [
   {
-    title: "Games For Free",
+    title: "E-Commerce Lab",
     description:
       "This project showcases a virtual clothing shop where users can explore, select, and purchase their favorite garments online. With a user-friendly interface and seamless functionality, this project demonstrates the integration of React, Redux Toolkit, TailwindCSS, React Router, React Toastify, and Firebase for Google Authentication. ",
     url: "https://ecommerce-lab-theta.vercel.app/",
